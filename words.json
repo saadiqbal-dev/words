@@ -1,0 +1,610 @@
+[
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Commons",
+    "Definition": "Resources that are accessible to all members of a community, such as natural resources, cultural heritage, and public spaces, managed collectively.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Public Goods",
+    "Definition": "Goods that are non-excludable and non-rivalrous, meaning they are available to everyone and one person’s use does not reduce availability to others, such as clean air and public parks.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Digital Commons",
+    "Definition": "Information and knowledge resources that are collectively created and maintained online and freely accessible to all, such as open-source software and wikis.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Sustainability",
+    "Definition": "The ability to maintain or improve the quality and availability of resources over the long term without harming the environment or depleting the resources.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Collaboration",
+    "Definition": "The action of working with others to achieve a common goal, especially in the context of sharing resources and knowledge.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Innovation",
+    "Definition": "The introduction of new ideas, products, or methods, which can drive progress and improvement within the commons.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Shared Resources",
+    "Definition": "Assets that are used jointly by a group of people or organizations, reducing duplication and increasing efficiency.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Open Access",
+    "Definition": "The practice of providing unrestricted access to information, research, and resources, allowing anyone to use and share them freely.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Collective Management",
+    "Definition": "A governance approach where a group collaboratively makes decisions and manages resources, ensuring fair and equitable use.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Equity",
+    "Definition": "The principle of fairness and justice in the distribution of resources and opportunities, ensuring that everyone has access to what they need to thrive.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Transparency",
+    "Definition": "The practice of being open and clear about processes, decisions, and data, which builds trust and accountability within the community.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Stakeholders",
+    "Definition": "Individuals or groups who have an interest or stake in a particular resource, project, or outcome, including community members, organizations, and governments.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Resilience",
+    "Definition": "The capacity of a system or community to adapt to changes and recover from disruptions, ensuring long-term stability and sustainability.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Community Building",
+    "Definition": "The process of creating and strengthening relationships among members of a community, fostering a sense of belonging and mutual support.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Knowledge Sharing",
+    "Definition": "The practice of exchanging information, skills, and expertise among individuals or groups to enhance collective understanding and capabilities.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Governance",
+    "Definition": "The frameworks and processes through which decisions are made and resources are managed, including rules, policies, and organizational structures.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Ethical Use",
+    "Definition": "The principle of using resources and technologies in a way that is morally right and respects the rights and dignity of individuals.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Data Security",
+    "Definition": "The protection of data from unauthorized access, corruption, or theft, ensuring its confidentiality, integrity, and availability.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Inclusivity",
+    "Definition": "The practice of ensuring that all individuals and groups, especially those who are marginalized, have the opportunity to participate and benefit equally.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Sustainable Development",
+    "Definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs, integrating economic, social, and environmental considerations.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Commons-Based Peer Production",
+    "Definition": "A model of socio-economic production in which the creative energy of large numbers of people is coordinated (usually with the aid of the internet) into large, meaningful projects mostly without traditional hierarchical organization.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Open Source",
+    "Definition": "Software for which the original source code is made freely available and may be redistributed and modified.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Crowdsourcing",
+    "Definition": "The practice of obtaining input or services by soliciting contributions from a large group of people, typically via the internet.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Decentralization",
+    "Definition": "The distribution of functions, powers, people, or things away from a central location or authority.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Community-Led Development",
+    "Definition": "Development that is driven by the people who are most affected by it, ensuring that their needs and preferences are prioritized.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Civic Engagement",
+    "Definition": "Individual and collective actions designed to identify and address issues of public concern.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Participatory Governance",
+    "Definition": "A process where citizens or stakeholders have the power to contribute to decision-making processes.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Open Data",
+    "Definition": "Data that is freely available to everyone to use and republish as they wish, without restrictions.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Knowledge Commons",
+    "Definition": "Shared resources in the form of information, ideas, and data that are created and maintained collectively.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Digital Equity",
+    "Definition": "Ensuring that all individuals and communities have the information technology capacity needed for full participation in society.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Open Innovation",
+    "Definition": "A model that encourages organizations to use external ideas and innovations in conjunction with internal ones.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Community Resilience",
+    "Definition": "The sustained ability of a community to withstand and recover from adversity.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Pro-Commoning",
+    "Definition": "Activities or policies that support the creation, management, and defense of commons.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Magenta",
+    "Category": "Organizational Structures",
+    "Term": "Social Capital",
+    "Definition": "The networks of relationships among people who live and work in a particular society, enabling that society to function effectively.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Open Licensing",
+    "Definition": "Licensing schemes that allow content creators to grant the public permission to use their work under certain conditions.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Blue",
+    "Category": "General Concepts",
+    "Term": "Adaptive Management",
+    "Definition": "A systematic process for continually improving management policies and practices by learning from the outcomes of previously employed policies and practices.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Magenta",
+    "Category": "Organizational Structures",
+    "Term": "Commons Governance",
+    "Definition": "Systems and rules for managing commons, typically involving community control and stewardship.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Public Domain",
+    "Definition": "Creative works to which no exclusive intellectual property rights apply.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Resource Pooling",
+    "Definition": "Combining resources from multiple sources for the benefit of all contributors.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Magenta",
+    "Category": "Organizational Structures",
+    "Term": "Sociocracy",
+    "Definition": "A system of governance using consent-based decision-making among equivalent individuals and an organizational structure based on cybernetic principles.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Green",
+    "Category": "Digital and Open Systems",
+    "Term": "Open Web Development",
+    "Definition": "The practice of creating web applications and services using open standards, open-source software, and open data, promoting accessibility, interoperability, and collaboration.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Liquid Governance",
+    "Definition": "A flexible form of governance that allows participants to delegate their voting power to trusted representatives, who can then vote on their behalf, combining elements of direct and representative democracy.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Open Civics",
+    "Definition": "A movement or approach that promotes transparency, participation, and collaboration in government and civic processes, often leveraging technology to engage citizens more effectively.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Circular Economy",
+    "Definition": "An economic system aimed at eliminating waste and the continual use of resources, focusing on recycling, reusing, and regenerating materials in a closed-loop system.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Magenta",
+    "Category": "Organizational Structures",
+    "Term": "Vestment Structures",
+    "Definition": "Organizational structures or frameworks that determine how resources, responsibilities, and decision-making powers are distributed among stakeholders, often designed to ensure fairness and accountability.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Cyan",
+    "Category": "Network and Platform Economics",
+    "Term": "Network Goods",
+    "Definition": "Goods that become more valuable as more people use them, such as social networks and communication platforms, benefiting from network effects where increased usage enhances the overall value.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Yellow",
+    "Category": "Technological Concepts",
+    "Term": "Interoperability",
+    "Definition": "The ability of different systems, platforms, and applications to work together seamlessly.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Yellow",
+    "Category": "Technological Concepts",
+    "Term": "API (Application Programming Interface)",
+    "Definition": "A set of protocols and tools for building software and applications, allowing different systems to communicate with each other.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Yellow",
+    "Category": "Technological Concepts",
+    "Term": "Web Standards",
+    "Definition": "Guidelines and specifications set by organizations like the W3C to ensure the long-term growth of the web.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Yellow",
+    "Category": "Technological Concepts",
+    "Term": "Responsive Design",
+    "Definition": "An approach to web development that ensures websites function well on a variety of devices and screen sizes.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Yellow",
+    "Category": "Technological Concepts",
+    "Term": "Web Accessibility",
+    "Definition": "The practice of making websites and web applications usable by people of all abilities and disabilities.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Direct Democracy",
+    "Definition": "A form of democracy in which people decide on policy initiatives directly.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Representative Democracy",
+    "Definition": "A type of democracy where elected officials represent a group of people in decision-making.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Delegated Voting",
+    "Definition": "A system where individuals can delegate their voting power to another person or representative.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Consensus Decision-Making",
+    "Definition": "A group decision-making process that seeks the consent of all participants.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Yellow",
+    "Category": "Technological Concepts",
+    "Term": "Blockchain",
+    "Definition": "A decentralized and distributed digital ledger used to record transactions across many computers.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Civic Tech",
+    "Definition": "Technology used to empower citizens or make government processes more efficient and transparent.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Participatory Budgeting",
+    "Definition": "A democratic process in which community members decide how to allocate part of a public budget.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "E-Government",
+    "Definition": "The use of digital tools and systems to provide public services and engage with citizens.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Civic Engagement Platforms",
+    "Definition": "Online tools that facilitate citizen participation in civic processes.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Red",
+    "Category": "Community and Civic Engagement",
+    "Term": "Transparency Initiatives",
+    "Definition": "Programs and practices aimed at making government operations open and accessible to the public.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Sustainable Design",
+    "Definition": "Designing products with consideration for the environmental impact throughout their lifecycle.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Upcycling",
+    "Definition": "The process of transforming by-products, waste materials, or unwanted products into new materials or products of better quality.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Cradle-to-Cradle",
+    "Definition": "A sustainable business strategy that mimics the regenerative cycle of nature in which waste is reused.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Resource Efficiency",
+    "Definition": "Using resources in a way that maximizes their value while minimizing environmental impact.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Purple",
+    "Category": "Economic Models and Resource Management",
+    "Term": "Zero Waste",
+    "Definition": "A philosophy that encourages the redesign of resource life cycles so that all products are reused.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Stakeholder Engagement",
+    "Definition": "The process of involving individuals, groups, or organizations that may be affected by or can affect a decision or action.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Governance Framework",
+    "Definition": "A structure that outlines the rules, practices, and processes used to direct and manage an organization.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Magenta",
+    "Category": "Organizational Structures",
+    "Term": "Equity Stake",
+    "Definition": "A percentage of ownership in a company or project, representing a claim on its assets and earnings.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Accountability Mechanisms",
+    "Definition": "Tools and processes used to hold individuals or organizations responsible for their actions and decisions.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Orange",
+    "Category": "Governance and Participation",
+    "Term": "Collaborative Governance",
+    "Definition": "A governance arrangement where stakeholders actively share decision-making power.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Cyan",
+    "Category": "Network and Platform Economics",
+    "Term": "Network Effects",
+    "Definition": "The phenomenon where a product or service gains additional value as more people use it.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Cyan",
+    "Category": "Network and Platform Economics",
+    "Term": "Metcalfe's Law",
+    "Definition": "The principle that the value of a network is proportional to the square of the number of its users.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Cyan",
+    "Category": "Network and Platform Economics",
+    "Term": "Platform Economy",
+    "Definition": "An economic and social activity facilitated by platforms, typically digital, which connect buyers, sellers, and users.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Cyan",
+    "Category": "Network and Platform Economics",
+    "Term": "Digital Ecosystem",
+    "Definition": "A complex network of interconnected digital technologies, services, and users.",
+    "Definition2": "",
+    "Definition3": ""
+  },
+  {
+    "Color": "Cyan",
+    "Category": "Network and Platform Economics",
+    "Term": "Two-Sided Market",
+    "Definition": "A platform that brings together two distinct but interdependent groups of customers, such as buyers and sellers.",
+    "Definition2": "",
+    "Definition3": ""
+  }
+]
